@@ -1,2 +1,2 @@
 # mobile-first
-praticando responsividade mobile-firs
+praticando responsividade mobile-first
