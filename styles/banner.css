@@ -36,3 +36,17 @@
     padding: 50px;
     
 }
+
+@media screen and (min-width: 1024px){
+    .banner__titulo{
+        font-size: 36px;
+    }
+    
+    .banner__search{
+        width: 50%;
+    }
+
+    .banner__search::placeholder{
+        background-position: 5em;
+    }
+}
